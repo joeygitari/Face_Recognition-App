@@ -1,4 +1,4 @@
-import cv2
+import cv2 #type: ignore
 from simple_facerec import SimpleFacerec
 
 # Encode faces from a folder

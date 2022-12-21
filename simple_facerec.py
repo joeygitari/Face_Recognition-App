@@ -1,8 +1,8 @@
-import face_recognition
-import cv2
+import face_recognition #type: ignore
+import cv2 #type: ignore
 import os
 import glob
-import numpy as np
+import numpy as np #type: ignore
 
 class SimpleFacerec:
     def __init__(self):
